@@ -1,0 +1,8 @@
+
+{
+  "name": "Pa Spot Cleaning Service",
+  "description": "A premium mobile cleaning marketplace where users can book house cleaning and car washes with a professional price negotiation system inspired by InDrive.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
